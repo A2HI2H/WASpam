@@ -7,7 +7,7 @@ Python based whatsapp spammer.
 Dependencey - Selenium
 
 ```bash
-pip install requirements.txt
+pip install selenium
 ```
 
 ## Usage
